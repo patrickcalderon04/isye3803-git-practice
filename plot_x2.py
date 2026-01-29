@@ -7,6 +7,5 @@ y = x**2
 
 plt.plot(x, y)
 plt.xlabel("x")
-plt.ylabel("f(x) = x^2")
-plt.title("Plot of f(x) = x^2")
+plt.ylabel("y = x^2")
 plt.show()
